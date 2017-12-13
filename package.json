@@ -1,0 +1,8 @@
+{
+  "name": "ES6-Experiments",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/Zygar/ES6-Experiments.git",
+  "author": "Zygar <a@andywilkinson.co.nz>",
+  "license": "MIT"
+}
